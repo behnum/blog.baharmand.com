@@ -10,7 +10,7 @@ permalink: pretty
 title: Behnam Baharmand
 tagline: "A Jekyll theme"
 description: 'Assorted Thoughts Of a <a href="https://twitter.com/baharmand" target="_blank">Software Developer</a>.'
-url: /
+url:
 baseurl: https://behnum.github.io/blog.baharmand.com/
 
 author:
