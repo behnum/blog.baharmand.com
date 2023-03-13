@@ -8,10 +8,10 @@ permalink: pretty
 
 # Setup
 title: Behnam Baharmand
-tagline: "A Jekyll theme"
+tagline: "Assorted Thoughts Of a Software Engineer."
 description: 'Assorted Thoughts Of a <a href="https://github.com/behnum" target="_blank">Software Engineer</a>.'
-url: https://behnum.github.io/blog.baharmand.com/
-baseurl: https://behnum.github.io/blog.baharmand.com/
+url: https://blog.baharmand.com
+baseurl: ""
 
 author:
   name: "Behnam Baharmand"
@@ -20,7 +20,7 @@ author:
 paginate: 5
 
 # Custom vars
-version: 1.1.0
+version: 1.1.1
 
 github:
   repo: https://github.com/behnum/
